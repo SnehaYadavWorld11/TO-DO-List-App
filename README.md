@@ -17,7 +17,14 @@ A minimal yet fully functional web-based To-Do list application that allows user
 - 🌈 Clean UI with custom CSS and Google Fonts
 
 ---
+## 🛠️ Technologies Used
 
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **sessionStorage** for storing task
+
+---
 ## 📸 Screenshots
 ![ScreenShots](https://github.com/SnehaYadavWorld11/TO-DO-List-App/blob/44f7cf81fade46a596a4162233d32ed058881dad/media/Screenshot%202025-06-25%20172755.png) 
 ![Screenshot](https://github.com/SnehaYadavWorld11/TO-DO-List-App/blob/44f7cf81fade46a596a4162233d32ed058881dad/media/Screenshot%202025-06-25%20173230.png) 
@@ -26,14 +33,9 @@ A minimal yet fully functional web-based To-Do list application that allows user
 
 
 
----
 
-## 🛠️ Technologies Used
 
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **sessionStorage** for storing task
+
 
 
 
